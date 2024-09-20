@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 3.3vw;
+  }
+  
+  header {
+    text-align: left;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  h1, h2, h3{
+    margin: 0 2;
+    color: rgb(0, 0, 0);
+  }
+  
+  ul {
+    list-style: disc;
+    color: rgb(0, 0, 0);
+    padding: 1;
+  }
+
+  li {
+    padding-bottom: .5rem;
+  }
+  
+  .job, .degree, .project {
+    border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
+    /* background-color: rgb(86, 159, 204); */
+
+    height: 40vh;
+  }
+
+  span{
+    color: rgb(0, 0, 0) ;
+    font-weight: 700;
+  }
+
+  .flexbox{
+    display: flex;
+    gap: 2rem;
+  }
+
+  .headerContainer{
+    border-bottom: 2px solid rgb(0, 0, 0);
+  }
+
+  /* .headerContent{
+    
+  } */
